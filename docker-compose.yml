@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   frontend:
-    build: https://github.com/your-username/your-repo-name.git#main
+    build: https://github.com/Emma-PG/Guess-My-Number.git#main
     container_name: my-frontend-container
     ports:
       - "5000:80"
